@@ -1,0 +1,9 @@
+
+m
+java:S6204Z"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(‡ ÆÉÿÿÿÿÿ
+g
+java:S1128"LRemove this unused import 'com.example.polihack_backend.entities.Caregiver'.(éŽ…ùÿÿÿÿÿ
+\
+java:S1128"GRemove this unused import 'com.example.polihack_backend.entities.User'.(Îˆ¼P
+k
+java:S1128"PRemove this unused import 'org.springframework.web.bind.annotation.PostMapping'.(äƒà°ùÿÿÿÿ
